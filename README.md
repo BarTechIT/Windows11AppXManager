@@ -9,7 +9,7 @@
 
   <img src="https://i.ibb.co/n88npCw4/011533-1.png" alt="Windows11AppXUninstaller Logo" width="200" />
 
-  <h1>Windows11AppXUninstaller</h1>
+  <h1>Windows11AppXManager</h1>
 
   <p><strong>Lightweight tool to remove unwanted AppX apps and bloatware from Windows 11</strong></p>
 
