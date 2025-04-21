@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
-![Logo](https://i.ibb.co/0ysvDpGZ/REMOVE-APPX-6.png)
+![Logo]([https://i.ibb.co/0ysvDpGZ/REMOVE-APPX-6.png](https://i.ibb.co/v6Xdpbrj/REMOVE-APPX-7.png))
 ---
 
 #  ![Logo](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager) Windows11AppXManager
