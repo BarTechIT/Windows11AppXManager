@@ -2,10 +2,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
-![Logo]([https://i.ibb.co/0ysvDpGZ/REMOVE-APPX-6.png](https://i.ibb.co/v6Xdpbrj/REMOVE-APPX-7.png))
+![Github](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
+
 ---
 
-#  ![Logo](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager) Windows11AppXManager
+#  ![Logo]([https://img.shields.io/github/license/BarTechIT/Windows11AppXManager](https://i.ibb.co/v6Xdpbrj/REMOVE-APPX-7.png)) Windows11AppXManager
 
 **Windows11AppXManager** is a lightweight, portable tool that allows you to easily remove **pre-installed UWP apps**, **AppX bloatware**, and soon maybe: **non-removable system packages** from **Windows 11**.  
 No PowerShell knowledge required – everything is handled through a clean, native GUI.
