@@ -1,7 +1,7 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BarTechIT/-Windows11AppXManager)
-![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/-Windows11AppXManager)
-![GitHub issues](https://img.shields.io/github/issues/BarTechIT/-Windows11AppXManager)
-![GitHub](https://img.shields.io/github/license/BarTechIT/-Windows11AppXManager)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)
+![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
+![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
+![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
 
 ---
 
