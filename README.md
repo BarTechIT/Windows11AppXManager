@@ -22,11 +22,32 @@ https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab444
 
   <img src="https://i.ibb.co/n88npCw4/011533-1.png" alt="Windows11AppXUninstaller Logo" width="200" />
 
-  <h1>Windows11AppXManager</h1>
+  <h1>What is Windows11AppXManager?</h1>
 
-  <p><strong>Lightweight tool to remove unwanted AppX apps and bloatware from Windows 11</strong></p>
-
+ <b>Windows11AppXManager</b> is a <b>lightweight and secure AppX management tool</b> for <b>Windows 11</b> that allows you to safely remove <b>UWP (Universal Windows Platform) apps</b> and unwanted system bloatware. It leverages native <b>PowerShell commands</b>, particularly Get-AppxPackage, to list and uninstall installed AppX packages.
+ 
 </div>
+
+✅ Why Use Get-AppxPackage in Windows 11?
+
+One of the tool’s core functions is integration with the command:
+
+Get-AppxPackage
+
+This enables you to:
+
+    View all installed AppX packages in Windows 11
+
+    Filter by app name, publisher, or type
+
+    Remove built-in or preinstalled bloatware
+
+    Create a system restore point before any changes
+
+    Use it without installation – fully portable
+
+Using Get-AppxPackage along with Windows11AppXManager gives you fine-grained control over AppX application management in Windows 11.
+
 
 ---
 
@@ -40,6 +61,18 @@ https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab444
 - 🧳 Portable – no installation required
 
 ---
+
+Windows 11 Get-AppxPackage
+
+How to remove AppX apps on Windows 11
+
+Uninstall UWP apps Windows 11 PowerShell
+
+Get-AppxPackage remove example
+
+Windows 11 debloat tool
+
+PowerShell AppX package remover
 
 ## 🧪 Coming Soon
 
