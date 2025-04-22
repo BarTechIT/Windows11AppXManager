@@ -1,3 +1,16 @@
+⚠️ WARNING!
+
+DO NOT DOWNLOAD OR RUN THIS PROGRAM UNLESS YOU ARE IN A CONTROLLED, ISOLATED ENVIRONMENT.
+This software is intended only for testing and research purposes.
+It may contain live malware components or behave like a real virus.
+
+🔍 STATUS: UNDER INVESTIGATION
+
+The project is currently being analyzed. Do not use it on production systems, personal machines, or any environment connected to the internet without proper containment (e.g., sandbox, VM, air-gapped systems).
+
+
+
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
@@ -90,4 +103,8 @@ Feel free to use, modify, and distribute it.
 GitHub: [BarTechIT](https://github.com/BarTechIT)
 
 ---</div>
+
+
+
+
 
