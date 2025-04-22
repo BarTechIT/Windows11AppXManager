@@ -8,7 +8,7 @@ It may contain live malware components or behave like a real virus.
 
 The project is currently being analyzed. Do not use it on production systems, personal machines, or any environment connected to the internet without proper containment (e.g., sandbox, VM, air-gapped systems).
 
-
+https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)
