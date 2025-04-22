@@ -44,7 +44,7 @@ MAY BEE:
 
 ## 🔧 Installation
 
-1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/-Windows11AppXUninstaller/releases) section.
+1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller) section.
 2. Extract the ZIP archive.
 3. Run `Windows11AppXManager.exe` as Administrator.
 4. (Optional) Create a system restore point before uninstalling apps.
