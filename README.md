@@ -11,11 +11,11 @@ The project is currently being analyzed. Do not use it on production systems, pe
 https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)
+[![Latest Release](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)](https://github.com/BarTechIT/Windows11AppXManager/releases/latest)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
-![Github](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
+
 
 ---
 <div align="center">
