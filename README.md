@@ -50,18 +50,6 @@ PowerShell AppX package remover
 
 
 
-
-
-
-
-
-## 🔧 Installation
-
-1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller) section.
-2. Extract the ZIP archive.
-3. Run `Windows11AppXManager.exe` as Administrator.
-
-
 https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 [![Buy Me a Coffee](https://i.ibb.co/609NbjC2/donate.png)](https://buymeacoffee.com/bartechpro)
