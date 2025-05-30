@@ -22,7 +22,7 @@ Using Get-AppxPackage along with Windows11AppXManager gives you fine-grained con
 
 ---
 
-## 📦 Key Features (Free Version)
+## 📦 Free Version
 
 - 🧼 Remove installed UWP apps using PowerShell backend (`Get-AppxPackage`)
 - 🔎 Search and filter by app name to uninstall with precision
