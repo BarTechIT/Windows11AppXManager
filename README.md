@@ -1,21 +1,9 @@
-⚠️ WARNING!
-
-DO NOT DOWNLOAD OR RUN THIS PROGRAM UNLESS YOU ARE IN A CONTROLLED, ISOLATED ENVIRONMENT.
-This software is intended only for testing and research purposes.
-It may contain live malware components or behave like a real virus.
-
-🔍 STATUS: UNDER INVESTIGATION
-
-The project is currently being analyzed. Do not use it on production systems, personal machines, or any environment connected to the internet without proper containment (e.g., sandbox, VM, air-gapped systems).
-
-https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
-
-
 [![Latest Release](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)](https://github.com/BarTechIT/Windows11AppXManager/releases/latest)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
 
+https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 ---
 <div align="center">
