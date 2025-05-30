@@ -3,7 +3,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
 
-https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 ---
 <div align="center">
@@ -106,8 +105,9 @@ Feel free to use, modify, and distribute it.
 **Bartosz (BarTechPro)**  
 💻 Software Developer
 GitHub: [BarTechIT](https://github.com/BarTechIT)
-
 ---</div>
+
+https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
 
 
