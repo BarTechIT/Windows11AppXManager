@@ -58,14 +58,6 @@ MAY BEE:
 > 
 
 
-
-## 🔧 Installation
-
-1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller) section.
-2. Extract the ZIP archive.
-3. Run `Windows11AppXManager.exe` as Administrator.
-4. (Optional) Create a system restore point before uninstalling apps.
-
 ---
 
 ## 🚀 Usage
@@ -93,12 +85,21 @@ If this project helped you, consider supporting future development:
 
 ---
 
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, and distribute it.
 
 ---
+
+## 🔧 Installation
+
+1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller) section.
+2. Extract the ZIP archive.
+3. Run `Windows11AppXManager.exe` as Administrator.
+4. (Optional) Create a system restore point before uninstalling apps.
+
 
 ## 👨‍💻 Author
 
