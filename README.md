@@ -1,8 +1,8 @@
+[![⬇️ Download AppXManager](https://img.shields.io/badge/Download-AppXManager-blue?logo=windows)](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller)
 [![Total Downloads](https://img.shields.io/github/downloads/BarTechIT/Windows11AppXManager/total?label=Total%20Downloads)](https://github.com/BarTechIT/Windows11AppXManager/releases)
 ![Last Commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager?label=Last%20Commit)
 ![Open Issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager?label=Open%20Issues)
 ![License](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager?label=License)
-[![⬇️ Download AppXManager](https://img.shields.io/badge/Download-AppXManager-blue?logo=windows)](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller)
 
 
 ---
