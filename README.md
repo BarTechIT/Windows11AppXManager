@@ -1,4 +1,4 @@
-[![Latest Release](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)](https://github.com/BarTechIT/Windows11AppXManager/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/BarTechIT/Windows11AppXManager)]([https://github.com/BarTechIT/Windows11AppXManager/releases/latest](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller))
 ![GitHub last commit](https://img.shields.io/github/last-commit/BarTechIT/Windows11AppXManager)
 ![GitHub issues](https://img.shields.io/github/issues/BarTechIT/Windows11AppXManager)
 ![GitHub](https://img.shields.io/github/license/BarTechIT/Windows11AppXManager)
