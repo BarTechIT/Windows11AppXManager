@@ -10,7 +10,6 @@
 
   <img src="https://i.ibb.co/n88npCw4/011533-1.png" alt="Windows11AppXUninstaller Logo" width="200" />
 
-  <h1>What is Windows11AppXManager?</h1>
 
  <b>Windows11AppXManager</b> is a <b>lightweight and secure AppX management tool</b> for <b>Windows 11</b> that allows you to safely remove <b>UWP (Universal Windows Platform) apps</b> and unwanted system bloatware. It leverages native <b>PowerShell commands</b>, particularly Get-AppxPackage, to list and uninstall installed AppX packages.
  
