@@ -45,13 +45,7 @@ Windows 11 debloat tool
 
 PowerShell AppX package remover
 
-## 🧪 Coming Soon
-
-MAY BEE:
-
-> 🚀 **Advanced Removal Mode** – Remove system-protected packages!!!
-
----
+----
 
 ## 📸 Screenshots
 
@@ -65,7 +59,7 @@ MAY BEE:
 - Launch the tool on Windows 11.
 - Use the search bar to locate unwanted AppX packages.
 - Click on an app to uninstall it safely.
-- Use "Create Restore Point" before starting if needed.
+
 
 ---
 
@@ -100,13 +94,6 @@ Feel free to use, modify, and distribute it.
 3. Run `Windows11AppXManager.exe` as Administrator.
 4. (Optional) Create a system restore point before uninstalling apps.
 
-
-## 👨‍💻 Author
-
-**Bartosz (BarTechPro)**  
-💻 Software Developer
-GitHub: [BarTechIT](https://github.com/BarTechIT)
----</div>
 
 https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
 
