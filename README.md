@@ -28,7 +28,6 @@ Using Get-AppxPackage along with Windows11AppXManager gives you fine-grained con
 - 🛡️ Create a System Restore Point before uninstalling
 - 📋 View a list of all AppX packages (installed/provisioned)
 - ⚙️ Fully compatible with Windows 11 (21H2, 22H2, 23H2)
-- 🧳 Portable – no installation required
 
 ---
 
@@ -48,53 +47,24 @@ PowerShell AppX package remover
 
 ## 📸 Screenshots
 
-> 
 
 
----
-
-## 🚀 Usage
-
-- Launch the tool on Windows 11.
-- Use the search bar to locate unwanted AppX packages.
-- Click on an app to uninstall it safely.
 
 
----
-
-## 🤝 Contributing
-
-Want to help improve this project? Contributions are welcome!
-
-Before submitting large features or architectural changes, open an issue for discussion.
-
----
-
-## ☕ Support the Project
-
-If this project helped you, consider supporting future development:
-
-[![Buy Me a Coffee](https://i.ibb.co/609NbjC2/donate.png)](https://buymeacoffee.com/bartechpro)
-
----
 
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and distribute it.
-
----
 
 ## 🔧 Installation
 
 1. Download the latest release from the [**Releases**](https://github.com/BarTechIT/Windows11AppXManager/releases/tag/windows11appxmanagerinstaller) section.
 2. Extract the ZIP archive.
 3. Run `Windows11AppXManager.exe` as Administrator.
-4. (Optional) Create a system restore point before uninstalling apps.
 
 
 https://www.virustotal.com/gui/file/023117f7fa274433aa515b506e8ecfa2df5be64ab4440186d5dfb70477d48ab2?nocache=1
+
+[![Buy Me a Coffee](https://i.ibb.co/609NbjC2/donate.png)](https://buymeacoffee.com/bartechpro)
 
 
 
